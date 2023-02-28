@@ -4,7 +4,7 @@ Contents:
 1. Problem Definition
 2. Data Preprocessing
 3. Exploratory Data Analysis
-4. Model Selection Followings models are used: Holt-Winter's
+4. Model Selection Followings models are used: \\ Holt-Winter's
 5. Model Building
 6. Result
 7. Conclusions
