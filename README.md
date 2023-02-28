@@ -4,6 +4,7 @@ The Project flow is as described below:
 1. Data Preprocessing
 2. Exploratory Data Analysis
 3. Model Selection
+
 Following models are considered:
 * Holt-Winters
 * ARMA
